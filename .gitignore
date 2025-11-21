@@ -1,0 +1,7 @@
+# Archivo con claves privadas
+.env
+
+# Archivos típicos de Python que no quiero subir
+__pycache__/
+*.pyc
+.venv/
